@@ -65,13 +65,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <input type="hidden" name="returnurlforpage" id="returnurlforpage" value="/quick-links/terminal-gate-pricing" />
 <input type="hidden" name="ctl00_ctl00_ctl00_ctl11_TSSM" id="ctl00_ctl00_ctl00_ctl11_TSSM" value="" />
 <input type="hidden" name="ctl00_ctl00_ctl00_rsm_TSM" id="ctl00_ctl00_ctl00_rsm_TSM" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xiLOE6F1kQmkvdqY0vzlTlQC7YcCGKwoYo+c7/qH6p7UCET6cCEYeYDHQR45omW3/MAgxdl+QtD1KyyFGVDGEtBurDvlmlCUDQeXv4CMJ7U02T6jWh+3lF+V4b7Az5qOofU5whdigLuEWZdIDrVO5ZqsE+inwBOrP80wFlvmmVW6dJ+T/0GP1wTFwGxDaFdnuSlWO0ZEPc82Y4cz6xQIqiL0m3KGgUEUAyS/j9UAmGPXTrN+U1FJKmxZwUc95He1EVEAZPj0NDGDZfyX0qk7Gjjck8831CKk/WZgv+MhXHsMw2T0c9iPdPhVPSy+lFx3KNhawO0gnitYj24mIwE+nJLwVSAy1WvopkbVjBXQLAgUNDaSdK6iOsRRxQnbBwf5sJ2fKIUW6s7pxml7Yxts8+zd07SWlhoa2m0qnEZtEbDbjzxAZD3eprmgMuJKObFvQBGH8eYGlpzefHNFv9u12+HgXTJJs9Z2PTroTOPRDJ/hJjenRQ+JjCPpNLJR7fetixyn2+kLb/2SlHs2shLTbpdsatcJDPmtpvSsPMTs2ecQRhI6yrmlrolk8A58YAFaRRmLdItphtzpysuNpgqsGcFjygHWb42N3087jkU6gcl0y64zgtOj38ra4hgaGNG/BCWOozgj7LwKHdprL5tT+19oLtQAGiCMpaiXaG0sirBzBmXtNOy2ZFO8mvvs+T/qaZXNc88SuzN8naruNahv9h7Xopp+SAGrhXsrylBA76cFJFUTuDxhe+g3/WoF4ZyRuOGTKBhqYiLGsCZ1H4zVG1wh8B1UOATIxiRI/XwvKCh5sWSiLElxZa8txzcRTazB0JXwc1GYf7zOl80NDBTzOxjA5bd++yk8fGJAkiyIaXUgbN3zpSddma9wxSLPdbKS8N9wioSF0PBXG9bZ6qNJ3afABQmDjkZ0693B+D5rsMBTKWynK6HN8fI78zzPQrEo33B1DO6QDt5nDCGzyT8l+gzUL+3Jd/8FVm0RIj79wSF8z/UTWEs1JNsS15fx7jMetXF64xAerUqNA9ue1pYoOLEzCo+u3H1h1hNLEfaojDQZ3YVot6NJ3JUx+iesGURc2HrHMh3F4wawNb0B17me44sGJbaHR1B7f+4uGcDyH8vd7NDXsfKGxtnBAK+AsmjOyWd5HETE7T25ToHyq5qQOlte8Zxz6qfItq/P/BvI0+YveUTzSp3+McQs6UW6JD1q9cpifvTGA6pVp/i5HTjmGiQwFKHBynDfyaaldEOFuxi/Iy37xwdefb8K1wRJLElNXKOhJw==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Z1EcohoVNeZQjJDr3kDyvNTA3YNTf00tAXA2d4k+3mewfSJi6lLFO2dCks6aN0DhYWsHC38QNGGDzoELc+cGmaBkMGAhCRirkKt+1qWUCOZFIu94UeqYb0f2/2W1gZ6pXDQLoxlZGEUasNDLpQ3i/hv2VgZ3fFTdKwEzHLa7OD2q9K3X+T9sHRU0kFeYJveTCTC086oha/xSrncSjzrbhp6t1Ol8cf4gjASNVyJKOBXgpp6q7YQH0XLIW0eHDL3u6hphu3flBGb1kd6YUvhyGcISwLPlyy9Wo4QrEkK60VOOgn510Sa6isQe4SalDjrrsG596Obu4ivxiVUlp9xeYipwpQsYlz6lC5rSViPXisjz2zZbCozdY/nOx4dVUc/XAV+lDeKJpJ8Y8h94RhWy19Z/aHYEh8aDx/xH5r7oCvZNjreuxEJEPvr4K2tiTlr8EsW3l+zIjsgYlWzDfWEjYne2OfrhgH0fzUey6FuLoET89gjD5N48fnoTCYyEYzu7HMYY5OZ4QgokJTGIytGRA5oQNDBGf2wLNnGj5wtlLGi2WBbII1b8xNRHZS1UncTJCLk1RYFpODFSizYIwcynTPq0jJcESTobhfPr3TLLpEyYkAmOT8H8lZGLDHf8qyAzfyz35G9CuBRc2UxAkkgREHIZFozDKINt4P7lbsvb8Jv8FQN+DQXmKJsjB4AEuaLljkKSVUpSQGOfau4lWxuG6rizrL4HIXkZ447OATZXH+e2APJ+bHwtkzwJQKAjV7J7WyqLnp9/yDAqGqO6veicT4oqJyPhoRbHEPUxN2mVr4bsOUeswPPQXq16VvkRFyTSQxqMUvnMWmlvGtRkyB9smp16tG1WqPM5KeSlu3CZzFherYRfO/tkqn/c7mPGkKLaOUyXgwktIhsj7MZaMdrSvl4qFh3PgseG/H6RJbHgkscDLnGe8vosv8sOxEUzTBrcBtEWHw1yOUIjUPY48JO3WfVGXksopqASTa1b9oWx9ZWcWVMeP+gLQzRMRjKW5jUWVcVknZwyRVAM6WIFcOMAC8JdLqAKk0s+oEjrNJls6jyQTAg2UDZPmiI9oElIHx8EV1a6bTDtCBFxvz+4ouw0J6w3Bn5h19qZmdCor4etMbKurA/pC5TlxkU3PWkCI7fhQhmvseB2wiTixz5LeDTi9asG07+SqLU8CWaP8zSDMt2dPpHrqrh+gMscP/WHDjlznOArAmOScz0g/akuhOlYTQI+avDQedgf+DObi40U7QnvGj81ex9wk6MvYZUsw3m2t6StLQ==" />
 
 
 <script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_ctl00_ctl00_rsm_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-AU%3a11857c8b-de5a-4483-8688-460a66797c2c%3aea597d4b" type="text/javascript"></script>
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="541A68AF" />
 <input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="CZidfG8B1wLF4MheIjSXHop3GfhglGojzA0Yh2AYoT39Dee3EFlNGf9HKqgFC6iPVIbadz107ybsIwQ+KSvqztTac1DYw/ORmFYv2Cr+SMh84AR/tgw6irMHFtyziW3aLi38QVFXFue7ufphZ3S4zeyBxvOS4gPySgivbLrwRnP/hLiulygdS0IhnGY6hmqnqaYCxqvfdw/xPsrXvgHz2w9JhGsN8AgH5ohi9ZWMhr3qK8gtAm5gsrAicwAWaTYuijYH4x4dvwKHGy+KoWSvLrtWcSxJIeG2CIDah14sdnr81tKy" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="50RZd0c3ocP+EWg7mYFmdyIqc0//2h5fCx8IiI3zwS2wBke+WrU7Luuy5zBd5Isujo3koB+jfdPoTMYrhiuPs7BsXBB3MBuebznrW0urCktesRdb/eHtUjiB+8jSHHuT8yhYGTuAQACnT5aX8GiBGWudymMxRB9eTYzPKQIGbIACF/enr7s87xXQ9HwWgf6lFfsLo/ckOPF8RpdtTeVO3CIFmkg4hEQ1DeF+O6gyDwlG4iRKAM5PMvXT6ki+D440FW7kicG3S8NPkEuYAvy/QRk2zj3hpheb5icyiJ0f56oU2G3/" />
     
 
 
@@ -1124,7 +1124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container max-800">
       
 
-        <h4>Viva Energy Australia Terminal Gate Pricing (TGP) as at 26 Nov 2025</h4>
+        <h4>Viva Energy Australia Terminal Gate Pricing (TGP) as at 27 Nov 2025</h4>
 <p>Please refer to Viva Energy Australia&rsquo;s Terms and Conditions located below when reviewing our current TGP. Historical TGP can be obtained from your account manager.</p>
 <p><strong>Note &ndash; if you have this page bookmarked, you may need to refresh the page by holding down the control key (CTRL) and clicking the refresh button.</strong></p>
     
@@ -1144,11 +1144,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <tr class='tgp-row'>
 <td class='tgp-col'>NEW SOUTH WALES</td>
 <td class='tgp-col'>SYDNEY</td>
-<td class='tgp-col'>162.68</td>
-<td class='tgp-col'>171.16</td>
-<td class='tgp-col'>163.30</td>
-<td class='tgp-col'>185.43</td>
-<td class='tgp-col'>174.42</td>
+<td class='tgp-col'>161.94</td>
+<td class='tgp-col'>170.42</td>
+<td class='tgp-col'>162.64</td>
+<td class='tgp-col'>184.70</td>
+<td class='tgp-col'>173.15</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
@@ -1158,167 +1158,167 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>174.54</td>
+<td class='tgp-col'>173.27</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'>NORTHERN TERRITORY</td>
 <td class='tgp-col'>DARWIN</td>
-<td class='tgp-col'>167.57</td>
-<td class='tgp-col'>177.17</td>
+<td class='tgp-col'>166.83</td>
+<td class='tgp-col'>176.41</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>180.37</td>
+<td class='tgp-col'>179.10</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'>QUEENSLAND</td>
 <td class='tgp-col'>BRISBANE</td>
-<td class='tgp-col'>161.01</td>
-<td class='tgp-col'>169.40</td>
-<td class='tgp-col'>162.35</td>
-<td class='tgp-col'>183.89</td>
-<td class='tgp-col'>173.29</td>
-<td class='tgp-col'>181.03</td>
+<td class='tgp-col'>160.27</td>
+<td class='tgp-col'>168.66</td>
+<td class='tgp-col'>161.68</td>
+<td class='tgp-col'>183.16</td>
+<td class='tgp-col'>172.03</td>
+<td class='tgp-col'>179.83</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>GLADSTONE</td>
-<td class='tgp-col'>166.67</td>
-<td class='tgp-col'>175.21</td>
+<td class='tgp-col'>165.94</td>
+<td class='tgp-col'>174.48</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>176.98</td>
+<td class='tgp-col'>175.71</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>MACKAY</td>
-<td class='tgp-col'>167.26</td>
+<td class='tgp-col'>166.52</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>177.14</td>
+<td class='tgp-col'>175.88</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>TOWNSVILLE</td>
-<td class='tgp-col'>166.71</td>
-<td class='tgp-col'>176.80</td>
+<td class='tgp-col'>165.97</td>
+<td class='tgp-col'>176.08</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>194.11</td>
-<td class='tgp-col'>178.18</td>
+<td class='tgp-col'>193.39</td>
+<td class='tgp-col'>176.91</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>CAIRNS</td>
-<td class='tgp-col'>167.39</td>
-<td class='tgp-col'>181.63</td>
+<td class='tgp-col'>166.65</td>
+<td class='tgp-col'>180.91</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>178.71</td>
+<td class='tgp-col'>177.44</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>WEIPA</td>
-<td class='tgp-col'>189.31</td>
+<td class='tgp-col'>188.57</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>187.43</td>
+<td class='tgp-col'>186.18</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'>SOUTH AUSTRALIA</td>
 <td class='tgp-col'>ADELAIDE</td>
-<td class='tgp-col'>162.06</td>
-<td class='tgp-col'>171.88</td>
-<td class='tgp-col'>164.01</td>
-<td class='tgp-col'>187.30</td>
-<td class='tgp-col'>175.00</td>
+<td class='tgp-col'>161.32</td>
+<td class='tgp-col'>171.13</td>
+<td class='tgp-col'>163.34</td>
+<td class='tgp-col'>186.57</td>
+<td class='tgp-col'>173.73</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>PORT LINCOLN</td>
-<td class='tgp-col'>168.21</td>
+<td class='tgp-col'>167.46</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>196.47</td>
-<td class='tgp-col'>181.80</td>
+<td class='tgp-col'>195.75</td>
+<td class='tgp-col'>180.53</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'>TASMANIA</td>
 <td class='tgp-col'>HOBART</td>
-<td class='tgp-col'>166.52</td>
-<td class='tgp-col'>177.44</td>
+<td class='tgp-col'>165.78</td>
+<td class='tgp-col'>176.70</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>193.57</td>
-<td class='tgp-col'>179.82</td>
+<td class='tgp-col'>192.84</td>
+<td class='tgp-col'>178.56</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>DEVONPORT</td>
-<td class='tgp-col'>166.43</td>
-<td class='tgp-col'>177.39</td>
+<td class='tgp-col'>165.69</td>
+<td class='tgp-col'>176.65</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>180.49</td>
+<td class='tgp-col'>179.23</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'>VICTORIA</td>
 <td class='tgp-col'>MELBOURNE</td>
-<td class='tgp-col'>160.14</td>
-<td class='tgp-col'>168.52</td>
-<td class='tgp-col'>161.49</td>
-<td class='tgp-col'>183.32</td>
-<td class='tgp-col'>173.56</td>
+<td class='tgp-col'>159.40</td>
+<td class='tgp-col'>167.78</td>
+<td class='tgp-col'>160.82</td>
+<td class='tgp-col'>182.59</td>
+<td class='tgp-col'>172.28</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>GEELONG</td>
-<td class='tgp-col'>160.14</td>
-<td class='tgp-col'>168.52</td>
+<td class='tgp-col'>159.40</td>
+<td class='tgp-col'>167.78</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>183.32</td>
-<td class='tgp-col'>173.56</td>
+<td class='tgp-col'>182.59</td>
+<td class='tgp-col'>172.28</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'>WESTERN AUSTRALIA</td>
 <td class='tgp-col'>PERTH</td>
-<td class='tgp-col'>162.24</td>
-<td class='tgp-col'>174.78</td>
+<td class='tgp-col'>161.48</td>
+<td class='tgp-col'>174.04</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>189.40</td>
-<td class='tgp-col'>174.61</td>
+<td class='tgp-col'>188.66</td>
+<td class='tgp-col'>173.07</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>BROOME</td>
-<td class='tgp-col'>202.17</td>
-<td class='tgp-col'>212.44</td>
+<td class='tgp-col'>201.52</td>
+<td class='tgp-col'>211.79</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>204.69</td>
+<td class='tgp-col'>203.16</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>PORT HEDLAND</td>
-<td class='tgp-col'>186.91</td>
+<td class='tgp-col'>186.23</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>202.82</td>
+<td class='tgp-col'>201.27</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
@@ -1328,7 +1328,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>178.20</td>
+<td class='tgp-col'>176.65</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
@@ -1338,17 +1338,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>195.39</td>
+<td class='tgp-col'>193.85</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
 <td class='tgp-col'></td>
 <td class='tgp-col'>COCOS Island</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>378.60</td>
+<td class='tgp-col'>377.93</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>223.75</td>
+<td class='tgp-col'>222.34</td>
 <td class='tgp-col'>--</td>
 </tr>
 <tr class='tgp-row'>
@@ -1358,7 +1358,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
 <td class='tgp-col'>--</td>
-<td class='tgp-col'>195.39</td>
+<td class='tgp-col'>193.85</td>
 <td class='tgp-col'>--</td>
 </tr>
 </tbody></table>
@@ -1415,7 +1415,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Become a Viva Energy business customer and enjoy all the advantages of working with a company that is nimble, efficient and reliable, with our extensive number of terminals able to service customers nationally. </p>
 <p>Apart from the highest quality fuels and lubricants at competitive prices, our customers also get the expertise of our people, providing genuine benefits to their bottom line. </p>
 <p>Call <strong>13 16 18</strong> <br />
-Email <strong><a href="/cdn-cgi/l/email-protection#93e7f6ffffe5fae5f2f6fdf6e1f4ead3e5fae5f2f6fdf6e1f4eabdf0fcfebdf2e6"><span class="__cf_email__" data-cfemail="5420313838223d2235313a3126332d14223d2235313a3126332d7a373b397a3521">[email&#160;protected]</span></a></strong></p>
+Email <strong><a href="/cdn-cgi/l/email-protection#790d1c15150f100f181c171c0b1e00390f100f181c171c0b1e00571a161457180c"><span class="__cf_email__" data-cfemail="2155444d4d57485740444f445346586157485740444f445346580f424e4c0f4054">[email&#160;protected]</span></a></strong></p>
     
 
       </div>
@@ -1682,6 +1682,6 @@ window.__TsmHiddenField = $get('ctl00_ctl00_ctl00_rsm_TSM');;(function() {
   
 </div>  
 <!-- concurrent user code block --> 
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a3f34fceb5933ce',t:'MTc2NDA1MzM3NQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9a4771d97cf73451',t:'MTc2NDEzOTc1NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 
 </html>
