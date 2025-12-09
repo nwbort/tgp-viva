@@ -32,7 +32,7 @@ FILENAME=$(echo "$URL" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed 's|
 if [[ "$MIME_TYPE" == "text/html" ]]; then
   CSV_FILE="${FILENAME}.csv"
   
-  # Extract date (format: "as at 09 Dec 2025") and convert to yyyy-mm-dd
+  # Extract date and convert to yyyy-mm-dd
   AS_AT_DATE=$(grep -oiE 'as at [0-9]+ [A-Za-z]+ [0-9]+' "$TEMP_FILE" | head -1 | \
     sed 's/[aA]s at //' | \
     awk '{
@@ -61,8 +61,8 @@ if [[ "$MIME_TYPE" == "text/html" ]]; then
         gsub(/<[^>]*>/, "", content)
         gsub(/&nbsp;/, " ", content)
         gsub(/&amp;/, "\\&", content)
-        gsub(/&rdquo;/, "\"", content)
-        gsub(/&rsquo;/, "'", content)
+        gsub(/&rdquo;/, "", content)
+        gsub(/&rsquo;/, "", content)
         gsub(/&ndash;/, "-", content)
         gsub(/--/, "N/A", content)
         gsub(/^[[:space:]]+|[[:space:]]+$/, "", content)
@@ -73,7 +73,6 @@ if [[ "$MIME_TYPE" == "text/html" ]]; then
       }
       
       if (col > 0) {
-        # Fill empty state from previous row
         if (!first_row && cells[1] == "") {
           cells[1] = prev_state
         }
