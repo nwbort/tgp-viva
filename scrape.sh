@@ -15,3 +15,6 @@ TMP_FILE=$(mktemp)
 { tail -n +2 "$HISTORY_FILE"; tail -n +2 "$CSV_FILE"; } | sort -u -t, -k9,9r -k1,1 -k2,2 > "$TMP_FILE"
 { echo "$HEADER"; cat "$TMP_FILE"; } > "$HISTORY_FILE"
 rm -f "$TMP_FILE"
+
+# Regenerate normalised CSV and JSON from the full history
+python3 normalise.py
