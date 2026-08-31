@@ -12512,3 +12512,69 @@ date,state,location,fuel_type,price_cpl
 2026-08-29,WA,Perth,p98,220.7
 2026-08-29,WA,Perth,ulp91,193.0
 2026-08-29,WA,Port Hedland,diesel,262.0
+2026-09-01,NSW,Newcastle,diesel,233.6
+2026-09-01,NSW,Sydney,diesel,233.5
+2026-09-01,NSW,Sydney,e10,193.6
+2026-09-01,NSW,Sydney,p95,203.5
+2026-09-01,NSW,Sydney,p98,216.8
+2026-09-01,NSW,Sydney,ulp91,193.5
+2026-09-01,NT,Darwin,diesel,239.5
+2026-09-01,NT,Darwin,p95,211.4
+2026-09-01,NT,Darwin,ulp91,198.6
+2026-09-01,QLD,Brisbane,b5,238.7
+2026-09-01,QLD,Brisbane,diesel,232.2
+2026-09-01,QLD,Brisbane,e10,192.8
+2026-09-01,QLD,Brisbane,p95,201.7
+2026-09-01,QLD,Brisbane,p98,215.2
+2026-09-01,QLD,Brisbane,ulp91,191.8
+2026-09-01,QLD,Cairns,diesel,238.1
+2026-09-01,QLD,Cairns,p95,213.7
+2026-09-01,QLD,Cairns,ulp91,198.6
+2026-09-01,QLD,Gladstone,diesel,236.5
+2026-09-01,QLD,Gladstone,p95,207.6
+2026-09-01,QLD,Gladstone,ulp91,198.5
+2026-09-01,QLD,Mackay,diesel,236.2
+2026-09-01,QLD,Mackay,ulp91,198.8
+2026-09-01,QLD,Townsville,diesel,237.9
+2026-09-01,QLD,Townsville,p95,209.3
+2026-09-01,QLD,Townsville,p98,223.9
+2026-09-01,QLD,Townsville,ulp91,198.4
+2026-09-01,QLD,Weipa,diesel,248.3
+2026-09-01,QLD,Weipa,ulp91,222.7
+2026-09-01,SA,Adelaide,diesel,233.6
+2026-09-01,SA,Adelaide,e10,193.9
+2026-09-01,SA,Adelaide,p95,201.9
+2026-09-01,SA,Adelaide,p98,216.4
+2026-09-01,SA,Adelaide,ulp91,192.4
+2026-09-01,SA,Port Lincoln,diesel,241.9
+2026-09-01,SA,Port Lincoln,p98,227.0
+2026-09-01,SA,Port Lincoln,ulp91,201.2
+2026-09-01,TAS,Devonport,diesel,236.2
+2026-09-01,TAS,Devonport,p95,210.0
+2026-09-01,TAS,Devonport,ulp91,197.6
+2026-09-01,TAS,Hobart,diesel,235.5
+2026-09-01,TAS,Hobart,p95,210.1
+2026-09-01,TAS,Hobart,p98,225.2
+2026-09-01,TAS,Hobart,ulp91,197.7
+2026-09-01,VIC,Geelong,diesel,233.5
+2026-09-01,VIC,Geelong,p95,200.8
+2026-09-01,VIC,Geelong,p98,214.7
+2026-09-01,VIC,Geelong,ulp91,191.0
+2026-09-01,VIC,Melbourne,diesel,233.5
+2026-09-01,VIC,Melbourne,e10,191.9
+2026-09-01,VIC,Melbourne,p95,200.8
+2026-09-01,VIC,Melbourne,p98,214.7
+2026-09-01,VIC,Melbourne,ulp91,191.0
+2026-09-01,WA,Broome,diesel,261.2
+2026-09-01,WA,Broome,p95,250.1
+2026-09-01,WA,Broome,ulp91,239.5
+2026-09-01,WA,Cocos Island,diesel,274.4
+2026-09-01,WA,Cocos Island,p95,413.6
+2026-09-01,WA,Dampier,diesel,250.7
+2026-09-01,WA,Esperance,diesel,235.3
+2026-09-01,WA,King Bay,diesel,250.7
+2026-09-01,WA,Perth,diesel,229.1
+2026-09-01,WA,Perth,p95,206.7
+2026-09-01,WA,Perth,p98,220.3
+2026-09-01,WA,Perth,ulp91,192.7
+2026-09-01,WA,Port Hedland,diesel,259.7
